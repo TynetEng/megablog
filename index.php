@@ -55,6 +55,12 @@
                     <button class="btn">SIGNUP</button>
                 </div>
             </form>
+            <div style="text-align: center;">
+                <span>Already have an account?</span>
+                <span>
+                    <a href="login.php">Login here</a>
+                </span>
+            </div>
         </div>
     </div>
 
